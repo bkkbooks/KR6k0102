@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0102/v1
 canonical_location: https://kanripo.org/bkk/KR6k0102/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵網經順硃
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0102_000.yaml, hash: 'sha256:e5f74bc18a6afcbbce1fd017617d2f5d093e422cd7a7f0fb96138bf999569b0a'}
-  - {seq: 1, filename: KR6k0102_001.yaml, hash: 'sha256:ad356ddfd1648193ffb37ec692f032ec45c427f416e13612efbb4e39756243cd'}
-  - {seq: 2, filename: KR6k0102_002.yaml, hash: 'sha256:ff2b7e22e2e8a95377286c6fd1505277609a237a18d8bbf36914e90a65160b0e'}
+  - {seq: 0, filename: KR6k0102_000.yaml, hash: 'sha256:ff5513c24b6f0737371d5d9f5355e63ff263d07fbf0b44d0e10d59df134510e1'}
+  - {seq: 1, filename: KR6k0102_001.yaml, hash: 'sha256:ad9ea4273ce0c123926916bb8b02231eb6e14e4c015c2e0c931e849d59782ad7'}
+  - {seq: 2, filename: KR6k0102_002.yaml, hash: 'sha256:b2cd79bd9d34c11dd5a4780818e3d4558df20c597ef2d83cc44b6e09f7dad35c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0102_000.markers.yaml, hash: 'sha256:eb7a4cfdf8b2e949c64bdc60e6a35dea344cbcff33a316b40c54fd45da3352d0'}
-  - {seq: 1, role: markers, filename: assets/KR6k0102_001.markers.yaml, hash: 'sha256:5c9efc2c8e426fdcca67299f79d0ce0d10720e961c3d96464ddb3dd3941b4a58'}
-  - {seq: 2, role: markers, filename: assets/KR6k0102_002.markers.yaml, hash: 'sha256:563353240400d08d713508f7649c7958453a6defe887b673ba035f6a9f5540e2'}
+  - {seq: 0, role: markers, filename: assets/KR6k0102_000.markers.yaml, hash: 'sha256:65176e9c7f0f968dbfdedb22497e54a00876e02fd9ade8a091857f7834022ae9'}
+  - {seq: 1, role: markers, filename: assets/KR6k0102_001.markers.yaml, hash: 'sha256:f084059fe06273c9a1d0c0e22497010242cfa4f984bcbd4a971d5cb260fe356f'}
+  - {seq: 2, role: markers, filename: assets/KR6k0102_002.markers.yaml, hash: 'sha256:b5f2601dcd27d057d8034e62d827364ce3bccb5d29996bbfc4f8b0d66e3f95cb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -69,4 +69,7 @@ table_of_contents:
   label: 佛說梵網經順硃卷下
   type: juan
   level: 1
-hash: sha256:9954c6fcc85da08c92378de44626e09f21712d84563a98dec94e1170de4df530
+hash: sha256:961cc05e4228da13c1c52a96fe4a6cf31fc2e7ca3915d088a998e277b1dde3ff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
